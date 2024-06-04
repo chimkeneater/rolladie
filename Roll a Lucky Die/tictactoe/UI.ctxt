@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=UI
+comment1.params=
+comment1.target=UI()
+comment2.params=
+comment2.target=java.lang.String\ promptForName()
+comment3.params=
+comment3.target=void\ promptRollDice()
+comment4.params=state
+comment4.target=void\ printBoard(State)
+comment5.params=cellValue
+comment5.target=java.lang.String\ getSymbol(int)
+comment6.params=state
+comment6.target=void\ printMove(State)
+comment7.params=state
+comment7.target=void\ printWinner(State)
+comment8.params=state
+comment8.target=void\ printRollCount(State)
+comment9.params=
+comment9.target=boolean\ startNewGame()
+numComments=10
